@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "hello",
+      "answer": "hello, how can help you"
+    },
+    {
+      "question": "If you could tell me the truth about my mental health, what would you tell me?",
+      "answer": " I'm here to support you, and I want you to know that you're not alone. It takes courage to acknowledge your struggles, and I'm proud of you for taking this step."
+    },
+    {
+      "question": "What would you not tell me?",
+      "answer": "I wouldn't tell you anything that might make you feel judged, ashamed, or uncomfortable. My purpose is to provide a safe and non-judgmental space for you to express yourself."
+    },
+    {
+      "question": " Is there something that you predict I\u2019m struggling with?",
+      "answer": "Based on our conversation, I sense that you might be struggling with feelings of anxiety or overwhelm. Am I right?"
+    },
+    {
+      "question": "Why haven\u2019t I sought help before?",
+      "answer": " It's common to hesitate seeking help due to fear, stigma, or feeling like you can handle it on your own. But know that seeking help is a sign of strength, and I'm here to support you every step of the way."
+    },
+    {
+      "question": "   What is my most terrible memory?",
+      "answer": " I'm so sorry you've had to experience difficult times. If you feel comfortable, can you tell me more about what's been troubling you? I'm here to listen and offer support."
+    },
+    {
+      "question": " Share a total of five positive things about me.",
+      "answer": "Here are five positive things about you:"
+    },
+    {
+      "question": "",
+      "answer": "    You're brave for seeking help and support."
+    },
+    {
+      "question": "    You're strong for facing your challenges head-on.",
+      "answer": "    You're capable of growth and change."
+    },
+    {
+      "question": "    You're deserving of love, care, and compassion.",
+      "answer": "    You're doing the best you can, and that's something\u00a0to\u00a0be\u00a0proud\u00a0of."
+    },
+    {
+      "question": " What am I doing right now?",
+      "answer": " I don't know what you're doing right now, but I'm here to support you in whatever you need."
+    }
+  ]
+}
